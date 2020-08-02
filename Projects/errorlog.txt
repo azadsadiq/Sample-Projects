@@ -1,0 +1,12 @@
+Traceback (most recent call last):
+  File "<ipython-input-25-6932867322d8>", line 4, in <module>
+    raise Exception('This is the erorr message')
+Exception: This is the erorr message
+Traceback (most recent call last):
+  File "<ipython-input-26-bfa2191bda3b>", line 4, in <module>
+    raise Exception('This is the erorr message')
+Exception: This is the erorr message
+Traceback (most recent call last):
+  File "<ipython-input-27-b1c2ce024fea>", line 4, in <module>
+    raise Exception('This is the erorr message')
+Exception: This is the erorr message
